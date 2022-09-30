@@ -10,6 +10,10 @@ namespace Prog_2_F22_Lecture_4
     {
         static void Main(string[] args)
         {
-        }
-    }
-}
+
+
+        } // Main
+
+    } // class
+
+} // namespace
